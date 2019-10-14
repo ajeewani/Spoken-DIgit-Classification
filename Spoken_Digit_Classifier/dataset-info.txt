@@ -1,0 +1,2 @@
+data "free-spoken-digit-dataset-master.zip" is download from https://github.com/Jakobovski/free-spoken-digit-dataset
+after that, for extra testing we recorded our own digits.

@@ -1,0 +1,7 @@
+using torch
+pip install kymatio
+pip install scipy
+pip install numpy
+pip install sklearn
+pip install matplotlib
+pip install joblib
